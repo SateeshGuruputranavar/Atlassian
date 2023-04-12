@@ -1,0 +1,36 @@
+## Test Management in Jira
+
+### Step 1: Install Jira
+- Install Jira on a server or cloud instance following Atlassian's installation instructions.
+
+### Step 2: Create a Jira Project
+- Create a project for test management using the "Classic" project template.
+- Give the project a name, key, and description.
+
+### Step 3: Create Issue Types for Test Cases and Test Plans
+- Create custom issue types for test cases and test plans in the project settings.
+- Customize the names, descriptions, and other attributes as needed.
+
+### Step 4: Create Test Cases
+- Create individual test cases as issues in the test management project.
+- Provide details such as test name, description, steps to reproduce, and expected results.
+- Assign the test case to a team member, set priority, and add labels or custom fields as needed.
+
+### Step 5: Create Test Plans
+- Create test plans as issues in the test management project.
+- Provide details such as name, description, and other relevant information.
+- Assign the test plan to a team member, set priority, and add labels or custom fields as needed.
+
+### Step 6: Link Test Cases to Test Plans
+- Go to the issue view of a test plan and click on "More" > "Add Test Case."
+- Search for and add relevant test cases to the test plan.
+- Set the execution status of each test case in the test plan to track their progress.
+
+### Step 7: Execute Test Cases
+- Update the status of test cases in the test plan as they are executed.
+- Add comments, attachments, or other relevant information to each test case.
+
+### Step 8: Generate Test Reports
+- Use Jira's built-in reporting features to generate test reports.
+- Track test execution status, test coverage, and defect metrics.
+
